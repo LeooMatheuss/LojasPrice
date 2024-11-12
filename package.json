@@ -1,0 +1,21 @@
+{
+    "name": "my-new-project",
+    "_type": "module",
+    "devDependencies": {
+        "@wdio/cli": "^7.16.4",
+        "@wdio/local-runner": "^7.16.4",
+        "@wdio/mocha-framework": "^8.13.13",
+        "@wdio/spec-reporter": "^8.12.2",
+        "chromedriver": "^119.0.1",
+        "wdio-chromedriver-service": "^8.1.1"
+    },
+    "scripts": {
+        "wdio": "wdio run ./wdio.conf.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "update": "^0.7.4",
+        "upgrade": "^1.1.0",
+        "webdriverio": "^7.16.4"
+    }
+}
