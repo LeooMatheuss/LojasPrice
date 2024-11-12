@@ -1,2 +1,2 @@
-Robô executa até a página 05 e salva os dados no arquivo result.json
+Robô executa pesquisa de um mesmo produto e mostra o produto com menor preço
 
